@@ -1,6 +1,6 @@
 ---
 title: "My business stack"
-date: 2023-01-18
+date: 2025-01-18
 ---
 
 I am at a point now having setting up my new business Gamma data to reflect on the structure of my nascent business. 
