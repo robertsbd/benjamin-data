@@ -1,4 +1,4 @@
 ---
-title: XX
+title
 ---
 
