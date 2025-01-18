@@ -25,7 +25,7 @@ Standard office productivity software I will use Microsoft Office, simply for in
 ### Web
 
 #### Hosting
-For my web-hosting I have chosen to use carrd.co which allow sone to create simple one-page websites. Because of the simplicity this ends costing USD$19 a year to host a website with your custom domain. This is less than what it costs per month on many other services. At this point in my business journey. I don't need anything more than a simple website.
+For my web-hosting I have chosen to use carrd.co which allow sone to create simple one-page websites. Because of the simplicity this ends costing £16 a year to host a website with your custom domain. This is less than what it costs per month on many other services. At this point in my business journey. I don't need anything more than a simple website.
 [Visit my website](https://www.gamma-data.co.uk)
 
 #### Blog
