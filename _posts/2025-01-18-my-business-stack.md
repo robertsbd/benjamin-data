@@ -3,7 +3,7 @@ title: "My business stack"
 date: 2025-01-18
 ---
 
-I am at a point now having setting up my new business Gamma data to reflect on the structure of my nascent business. 
+I am at a point now having setting up my new business, Gamma data, to reflect on the structure of my nascent business. 
 
 I have my first client, I have all required HMRC documents, an accountant, business insurance, initial business proposition written down, and the beginnings of my business and finacial processes in place.
 
