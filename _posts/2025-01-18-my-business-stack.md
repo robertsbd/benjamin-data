@@ -31,7 +31,7 @@ For my web-hosting I have chosen to use carrd.co which allow sone to create simp
 #### Blog
 I have created my blog using Github pages, which is a free web hosting solution.
 
-###Email
+### Email
 I have continued to use Proton mail, which I have used personally for a number of years for reason of privacy and security. A monthly subscription providing me with a custom domain is less than £5 a month.
 [Send me a message](https://www.gamma-data.co.uk#contact)
 
