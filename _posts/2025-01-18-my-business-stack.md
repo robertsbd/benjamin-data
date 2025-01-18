@@ -26,12 +26,15 @@ Standard office productivity software I will use Microsoft Office, simply for in
 
 #### Hosting
 For my web-hosting I have chosen to use carrd.co which allow sone to create simple one-page websites. Because of the simplicity this ends costing USD$19 a year to host a website with your custom domain. This is less than what it costs per month on many other services. At this point in my business journey. I don't need anything more than a simple website.
+[Visit my website](https://www.gamma-data.co.uk)
 
 #### Blog
-I have created mjy blog using Github pages, which is a free web hosting solution.
+I have created my blog using Github pages, which is a free web hosting solution.
 
 ###Email
 I have continued to use Proton mail, which I have used personally for a number of years for reason of privacy and security. A monthly subscription providing me with a custom domain is less than £5 a month.
+[Send me a message](https://www.gamma-data.co.uk#contact)
+
 
 ### Book-keeping
 I am using GnuCash which is a free and open source accountancy package, and while it does look dated, it does more than I will ever need, provides me with all the information I need to send to my accountant, create invoices and manage Accounts Payable, Accounts Receivables, monthly Profit and Loss statements and monitor my cashflow.
