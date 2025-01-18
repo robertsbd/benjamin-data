@@ -1,4 +1,7 @@
-# Set up a local spark data platform
+---
+title: "Set up a local spark data platform"
+date: 2024-12-15
+---
 
 Creating a spark data platform on a local machine can be useful for learning about spark and delta lakes when you may not have access to a cloud platform with technologies such as Databricks or Synapse/Fabric.
 
