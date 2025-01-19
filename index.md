@@ -6,6 +6,6 @@ Welcome to my blog! Here, I share insights, tips, and experiences at the interse
 
 I’m passionate about helping businesses unlock their potential with thoughtful solutions, and I’m always eager to connect with like-minded professionals.
 
-- 📘 [Explore the Blog](./blog)  
+- 📘 [Explore the Blog]([./blog](https://github.com/robertsbd/benjamin-data))  
 - ✉️ [Contact Me](https://www.gamma-data.co.uk#contact)  
 - 🌐 [Visit My Website](https://www.gamma-data.co.uk)
