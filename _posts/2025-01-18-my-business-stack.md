@@ -34,7 +34,7 @@ I use ProtonMail, a service I’ve trusted personally for years due to its stron
 [Send me a message](https://www.gamma-data.co.uk#contact)
 
 ### Bookkeeping
-For accounting, I rely on [GnuCash](https://gnucash.org), a free and Open Source solution. While its interface is dated, it’s more than sufficient for my needs. It handles everything from invoicing to managing Accounts Payable/Receivable, generating Profit and Loss statements, and monitoring cash flow. What more can I possibly need. Although many people swear by the big online tools, there cost doesn't seem justified having tried them out.
+For accounting, I rely on [GnuCash](https://gnucash.org), a free and Open Source solution. While its interface is dated, it’s more than sufficient for my needs. It handles everything from invoicing to managing Accounts Payable/Receivable, generating Profit and Loss statements, and monitoring cash flow. What more can I possibly need. Although many people swear by the big online tools, their cost doesn't seem justified having tried them out.
 
 ### Computer Operating Systems
 My primary operating system is Linux, specifically the Fedora distribution. I previously used Arch Linux but, for a daily driver, I need to not be living in configuration files to keep the system running. I will however still be running Arch on my non-core systems, as it is fun!
