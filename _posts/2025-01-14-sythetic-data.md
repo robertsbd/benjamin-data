@@ -11,4 +11,6 @@ What’s truly remarkable is how quickly high-quality synthetic data can be gene
 
 This approach not only enables data teams to stay ahead of project timelines but also fosters collaboration with business users. By introducing them to the new data landscape early, we become agents of change, helping them adapt and engage with the evolving project requirements.
 
-It’s a game changer. If you’re curious about how synthetic data could accelerate your project or benefit your organization, feel free to reach out—I’d be happy to discuss it with you. Contact me
+It’s a game changer. If you’re curious about how synthetic data could accelerate your project or benefit your organization, feel free to reach out—I’d be happy to discuss it with you.
+
+[Contact me](https://www.gamma-data.co.uk#contact)
