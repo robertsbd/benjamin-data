@@ -16,7 +16,7 @@ To that end, here’s a breakdown of my business “tech stack,” which priorit
 ## The Stack
 
 ### Office Productivity
-The only piece of software I a have a life-long commitment to is Emacs. And woth Org-mode it becomes super-powered Emacs. It serves as my all-in-one solution for note-taking, task management, project tracking, development, and more. Emacs truly minimizes my reliance on multiple subscription services.
+The only piece of software I have a life-long commitment to is Emacs. And with Org-mode it becomes super-powered Emacs. It serves as my all-in-one solution for note-taking, task management, project tracking, development, and more. Emacs truly minimizes my reliance on multiple subscription services.
 
 For standard office productivity tasks, I use Microsoft Office. While LibreOffice is a solid Open Source alternative, Microsoft Office’s ubiquity ensures ease of interoperability with clients.
 
