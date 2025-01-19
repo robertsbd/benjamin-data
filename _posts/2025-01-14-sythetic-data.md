@@ -1,15 +1,14 @@
 ---
-title: "Synthetic data"
+title: "Synthetic Data"
 date: 2025-01-14
 ---
 
+In my data and analytics work on a large project, I’ve found our data team in a unique position. We’ve collaborated extensively with end users to define the desired analytical outcomes, but we’re far ahead of the source data systems coming online.
 
-In my Data and Analytics work on a large project with a client I have found our Data team in the position where we have done our work with the end users to understand the analytic outcomes needed, but we are running well ahead of the source data systems coming online.
+The absence of data could have been a significant blocker for developing our reporting and analytics outcomes. However, by creating synthetic data, we’ve been able to make progress—building dimensional data models and reports that can be reviewed and refined with end users well before the source systems go live.
 
-The absence of data could be a blocker for the development of Reporting and Analytics outcomes. However by creating synthetic data we are able to advance our work building dimensional data models and reports that we can play back and refine with the end-users ahead of the go-live of the source systems.
+What’s truly remarkable is how quickly high-quality synthetic data can be generated using generative AI. With well-developed and refined prompts that capture the transactional logic of the underlying source systems, it’s possible for a skilled practitioner to produce synthetic data within just a couple of days.
 
-What I have found is just how fast you can generate high quality synthetic data using Generative AI. Here we produce code with well developed and refined prompts that capture the transactional logic in the underlying source system. This can be done by a suitably knowledgable person in a couple of days.
+This approach not only enables data teams to stay ahead of project timelines but also fosters collaboration with business users. By introducing them to the new data landscape early, we become agents of change, helping them adapt and engage with the evolving project requirements.
 
-Taking such an approach allows data teams to get ahead of a project, and in-addition work with business users to be that change agent for the project by familiarising them with a new data landscape.
-
-It really is quite amazing. If anyone wants a chat about how this could work in your organisation or your project please do get in touch.
+It’s a game changer. If you’re curious about how synthetic data could accelerate your project or benefit your organization, feel free to reach out—I’d be happy to discuss it with you. Contact me
