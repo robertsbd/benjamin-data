@@ -1,4 +1,10 @@
 theme: minima
-title: Gamma data blog
+title: Gamma Data Blog
 author: Benjamin Roberts
-description: Data, Analytics, Generative AI and business development.
+description: Insights on data, analytics, generative AI, and business development.
+email: benjamin@gamma-data.co.uk
+url: https://www.gamma-data.co.uk
+baseurl: https://www.gamma-data.co.uk
+github_username: robertsbd
+show_excerpts: true
+paginate: 5
