@@ -181,3 +181,5 @@ Here you can create a medallion architecture storing your delta files in differe
 Other things to do is to start to play around with the Hive metastore.
 
 As you play with these you will come to the realisation that Databricks, Synapse and Fabric are all very impressive, but are essentially a UI wrapper on Apache Spark and the Delta file format which is where the real magic lies.
+
+[Contact me](https://www.gamma-data.co.uk#contact)
