@@ -49,3 +49,5 @@ While I’m not entirely comfortable using Apple for cloud storage, the reality 
 ---
 
 By leveraging Open Source tools and carefully selecting cost-effective services, I’ve built a tech stack that aligns with my values and keeps costs manageable. If you’re considering starting your own business, I hope this overview offers some inspiration for crafting a stack that works for you.
+
+[Contact me](https://www.gamma-data.co.uk#contact)
