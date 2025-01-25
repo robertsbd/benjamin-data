@@ -23,9 +23,9 @@ Below, I’ve included a simple framework for structuring your prompts. Hopefull
 
 ## Describe the problem
 
-- You are a Data Architect skilled in data modelled and programming with Python.
+- You are a Data Architect skilled in data modelling and programming with Python.
   
-- You are required to create python code which will create synthetic data to populate a star schema. The schema is described by the following mermaid entity relationship diagram (ERD).
+- You are required to create python code to create synthetic data to populate a star schema. The schema is described by the following mermaid entity relationship diagram (ERD).
 
 ## Describe the data model (I am using a mermaid diagram)
 
@@ -55,7 +55,7 @@ erDiagram
 ## Describe the business logic
 
 - Rules
-  1. A case_sk will go through multiple values of case_status_sk the transitional probability described in the status transitions section
+  1. A case_sk will go through multiple values of case_status_sk defined by the transitional probability described in the status transitions section
   2. Each successive case_status_sk for a case_sk should have a start_date_sk that is equal to the previous end_date_sk
   3. A combination of case_sk and case_status_sk is unique and should only appear in a single row of CASE_STATUS_DIM
   4. A single case_sk should only be associated with one person_sk
