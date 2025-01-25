@@ -1,6 +1,6 @@
 ---
 title: "Sythetic data #2"
-date: 2025-12-15
+date: 2025-01-25
 ---
 
 I’ve recently had great success using Generative AI to create synthetic data, and I thought I’d share how I went about it. Hopefully, this can be helpful for others tackling similar challenges.
