@@ -1,5 +1,5 @@
 ---
-title: "Sythetic data #2"
+title: "Synthetic data #2"
 date: 2025-01-25
 ---
 
