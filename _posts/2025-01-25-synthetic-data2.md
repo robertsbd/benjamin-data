@@ -3,7 +3,7 @@ title: "Synthetic data #2"
 date: 2025-01-25
 ---
 
-I’ve recently had great success using Generative AI to create synthetic data, and I thought I’d share how I went about it. Hopefully, this can be helpful for others tackling similar challenges.
+I have recently had great success using Generative AI to create synthetic data, and I thought I’d share how I went about it. Hopefully, this can be helpful for others tackling similar challenges.
 
 The basic idea is to start with a well-structured prompt. I’ve found that using a Mermaid ERD (Entity Relationship Diagram) to describe the data model works brilliantly—it provides a clear and visual way to communicate the structure you’re working with.
 
