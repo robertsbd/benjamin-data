@@ -59,6 +59,10 @@ git config --global core.compression 0
 ```
 
 With these adjustments, I successfully installed OpenStack and accessed the Horizon dashboard, which is equivalent to the Azure portal or AWS Console.
+
+Here is a picture of the Horizon dashboard.
+
+![image](images/horizon.png)
  
 # Next Steps
 The next phase will involve deploying networking, virtual machines, and the data platform on OpenStack. Stay tuned for more updates as I continue this journey towards digital sovereignty.
