@@ -62,7 +62,7 @@ With these adjustments, I successfully installed OpenStack and accessed the Hori
 
 Here is a picture of the Horizon dashboard.
 
-![OpenStack Horizon dashboard](/benjamin-data/assets/images/horizon.png)
+![OpenStack Horizon dashboard](/benjamin-data/docs/assets/images/horizon.png)
  
 # Next Steps
 The next phase will involve deploying networking, virtual machines, and the data platform on OpenStack. Stay tuned for more updates as I continue this journey towards digital sovereignty.
