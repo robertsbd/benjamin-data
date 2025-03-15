@@ -1,0 +1,52 @@
+---
+title: "Installation of Open stack"
+date: 2025-01-25
+---
+
+
+I am interested in running a Data Platform on an Open source cloud platform. It seems that as digital soveriegnty is an important geo-political imperative that it will be important for the UK and Europe to ensure we have this soveriengty I wanted to expore what that can look like. As at the moment this is all outsourced, and really it doesn't have to be. A starting point is to build this out with an Open source stack. It is my objective to run a Dataplatform based around Spark + Delta, SQL DBs, Generative AI, organised around Graph data structures.
+
+So here I want to explore the extent to which you can have digital soveriengty in your bedroom, as regards an enterprise data platform. It will also be a good exploration into what the modern enterprise data platforms are, which my conjecture is that tools like Databricks and Fabric are very slick, highly marketed implementations wrappers around fairly accessible Open Source software.
+
+I am going to record my exploration in a series of blog posts.
+
+I will be taking this forward by first deploying a cloud platform, using Open Stack. I will then be evaulating running Apache Spark and Apache Airflow on linux compute on the Open Stack. 
+
+Finally I will be exploring building out SQL endpoints on top of a spark based delta-lake.
+
+If this all sounds a lot like Databricks or Microsoft Fabric, it is because it is. Although as a single person doin't expect a flashy Web User Interface.
+
+Todays activity is a good exercise if you want to spend a lazy sunday playing around with your computer. In addition it is also a great exercise for anyone who wants to play around with linux a bit.
+
+# Creation of a linux VM on which to install Open Stack 
+
+I created a VM with 8 cores, 8 GB RAM and 50 GB of disk storage. Even though this is below the specs stated by Open stack, I did this because I don't have the hardware that meets the minimum specs required, but I only want to set things up for the purposes of testing. I am never going to be running a data centre from my home.
+
+Ubuntu 24.04.1 LTS - Noble Numbat, as this is the recommended version of Ubuntu to run for Openstack.
+
+This was fairly straightforward.
+
+2. Deploy the Open stack cloud on the virtual machine
+
+I tried the heavyweight approach. This didn't work
+
+Attemting to deploy Openstack on the VM got about halfway through before it failed. The errors were associated with the deplpyment of kurbentes contollers, and so I assumed this was associated with using an underpowered VM. At this point I decided to repeat the process on a spare laptop that I had with the required CPU cores but only 8 GB RAM, and while this didn't meet the required system requirements. It did deploy. I decided not to install this on my daily driver laptop where I run Fedora as Fedora is not a supported distro, and I didn't want to screw around with the machine I require for daily work.
+
+I then ran it on the actual machine - this still didn't work 
+
+Then I ran the devStack and that worked well. 
+
+Here is a screenshot of my the web portal for my local cloud environment. My next steps will be to set up two VMs with appropriate networking, some object storage, set up the networking between these different services and then put spark on one of the VMs, put airflow on another and build out some data pipelines. 
+
+If this works out well it will offer a fairly simple self-hosted data platform, and with suffient power you could then local LLMs to provide you with GenAI functionality and there you go, a modern data ecosystem. Also get a SQL DB in the mix, and want to be able to see a hive data catalogue and a SQL endpoint.
+
+
+- How to burn a USB stick to install linux
+https://linuxconfig.org/how-to-make-a-bootable-usb-from-an-iso-in-linux
+
+First I created a Virtual Machine
+
+I overrode GIT_DEPTH in the stack.sh file.
+
+
+[Contact me](https://www.gamma-data.co.uk#contact)
