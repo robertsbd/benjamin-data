@@ -24,7 +24,7 @@ Digital sovereignty means having control over your data and the infrastructure t
 ## Deploying OpenStack
 OpenStack is a powerful open-source cloud platform that allows you to manage large pools of compute, storage, and networking resources. I will be using DevStack, a script-based tool designed to quickly deploy OpenStack on a single machine, to set up my environment.
 
-To find out instructions to use DevStack to install OpenStack visit the following page: https://docs.openstack.org/devstack/latest/
+To find out instructions to use DevStack to install OpenStack visit the following page: [OpenStack](https://docs.openstack.org/devstack/latest/)
 
 ### System Specifications
 
