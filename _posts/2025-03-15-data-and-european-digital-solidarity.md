@@ -14,7 +14,7 @@ My overall-goal is to build a data platform using open-source technologies on an
 
 - **Apache Spark + Delta:** For data storage and processing
 - **Apache Airflow:** For orchestration
-- **Neo4j Graph Database:** For data modeling
+- **Neo4j Graph Database:** For data modeling and data lineage visualisation
 - **PostgreSQL:** For SQL storage
 - **Locally Hosted Large Language Models (LLMs):** To integrate these components
 
@@ -29,7 +29,7 @@ To find out instructions to use DevStack to install OpenStack visit the followin
 ### System Specifications
 
 - **CPU:** Ryzen 7 AMD
-- **RAM:** 16 GB
+- **RAM:** 64 GB
 - **GPU:** Integrated
 - **OS:** Fedora (GNU/Linux distribution)
 
@@ -38,8 +38,8 @@ To find out instructions to use DevStack to install OpenStack visit the followin
 The first step is to create a virtual machine (VM) to install DevStack. Here are the specifications for the VM:
 
 - **CPU Cores:** 8
-- **RAM:** 8 GB
-- **Disk Storage:** 50 GB
+- **RAM:** 32 GB
+- **Disk Storage:** 120 GB
 - **OS:** Ubuntu Desktop 22.04 LTS (Jammy Jellyfish)
 
 I used Boxes, a VM management tool that comes with Gnome in Fedora, to create the VM. The process was straightforward and followed the recommendations in the DevStack documentation.
@@ -50,9 +50,7 @@ Initially, I attempted to deploy OpenStack directly on the VM, but the process f
 
 ## Success with DevStack
 
-DevStack provides a streamlined way to set up an OpenStack environment quickly. However, I encountered several issues related to network stability and the cloning of large Git repositories. To resolve these, I modified the `stack.sh` install script to reduce the depth of the clone process to 1, ensuring that only the recent version of the repo was cloned.
-
-Additionally, I ran the following commands to configure Git for better stability:
+DevStack provides a streamlined way to set up an OpenStack environment quickly. However, I encountered several issues related to network stability and the cloning of large Git repositories. To resolve these, I ran the following commands to configure Git for better stability:
 
 ```bash
 git config --global http.postBuffer 104857600
