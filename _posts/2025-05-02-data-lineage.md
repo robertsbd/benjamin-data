@@ -3,8 +3,6 @@ title: "Visualising Column Level Lineage in Fabric with Neo4j for Data Warehouse
 date: 2025-05-17
 ---
 
-## Building Column-Level Lineage for SQL Workflows in Microsoft Fabric
-
 ![Table lineage](/benjamin-data/docs/assets/images/table_lineage.png)
 
 During a recent data warehouse build for a client using Microsoft Fabric, we encountered a common challenge: maintaining clear visibility into data movement and transformations across various layers. This became particularly important as our SQL code-base, managed in GitHub is developing rapidly and is being worked on by multiple developers. In this instance it is difficult to maintain an over-site of the rapid development across sprints and to have the detail to ensure the validity of the data warehouse entities being built. To ensure data quality and effectively manage the impact of changes, a solution for automated column-level lineage was necessary.
