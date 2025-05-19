@@ -1,10 +1,10 @@
 ---
-title: Data, Analytics, Generative AI, and Business Development
+title: Gamma DnA blog
 ---
 
-Welcome to my blog! Here, I share insights, tips, and experiences at the intersection of **data**, **analytics**, **generative AI**, and **business development**. Whether you’re curious about leveraging data-driven strategies or exploring the transformative potential of AI, you’re in the right place.
+Welcome to the Gamma DnA blog written by Dr Benjamin Roberts. Here, I share insights, tips, and experiences at the intersection of **data**, **analytics**, **AI**, business development.
 
 I’m passionate about helping businesses unlock their potential with thoughtful solutions, and I’m always eager to connect with like-minded professionals.
 
-- ✉️ [Contact Me](https://www.gamma-data.co.uk#contact)  
-- 🌐 [Visit My Website](https://www.gamma-data.co.uk)
+- ✉️ [Contact Me](https://www.gamma-dna.co.uk#contact)  
+- 🌐 [Visit My Website](https://www.gamma-dna.co.uk)
