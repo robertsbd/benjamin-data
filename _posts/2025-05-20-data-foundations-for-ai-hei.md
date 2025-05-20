@@ -3,7 +3,7 @@ title: "The Data Foundation Imperative for Ethical AI in UK Higher Education"
 date: 2025-05-20
 ---
 
-![Table lineage](/benjamin-data/docs/assets/images/he_ai_flowchart.png)
+![Table lineage](/benjamin-data/docs/assets/images/hei_ai_flowchart.png)
 
 The power of modern Artificial Intelligence (AI) tooling is leading to the situation where data is being "analysed" on a scale, at a speed, and by a wider audience than has been possible in the past. Well architected and governed data ecosystems in Higher Education Institutions have always been important, but now so more than ever.
  
