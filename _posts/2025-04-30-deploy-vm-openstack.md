@@ -3,7 +3,6 @@ title: "Openstack - Deploying a Virtual Machine with a spark data platform"
 date: 2025-04-30
 ---
 
-# Summary
 Our objective here is to deploy an instance (virtual machine) and to be able to ssh into this machine. Spoiler: deploying an instance is straight forward. Being able to ssh into this instance and giving this instance the ability to connect to external networks is a little more challenging. You will still be able to explore the functionality of Openstack without this, so if you can't achieve this don't worry. I will be writing future blog posts with a full throated Openstack installation where we will be addressing the specifics of setting up all required networking.
 
 # Use the demo project
