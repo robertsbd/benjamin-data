@@ -1,5 +1,5 @@
 ---
-title: Data, Analytics, AI and Business Development
+title: Data, AI and Business Development
 ---
 
 Technical and Non-technical articles about Data and AI written by Dr Benjamin Roberts, Founder of Gamma DnA.
