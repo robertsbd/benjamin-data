@@ -3,6 +3,8 @@ title: "Rapidly Developing an AI Assistant to query a knowledge base with RAG us
 date: 2025-05-26
 ---
 
+![Table lineage](/benjamin-data/docs/assets/images/ai_rag_creation_process.png)
+
 The ability to converse with proprietary knowledge bases represents a significant advancement in information retrieval and operational efficiency. This guide outlines a streamlined process for rapidly developing a proof-of-concept AI Assistant using Retrieval Augmented Generation (RAG) with Azure OpenAI, enabling users to query custom information sources effectively.
 
 The objective is to quickly establish an AI Assistant that leverages your organisation's specific information to provide informed responses.
