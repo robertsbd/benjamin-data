@@ -3,7 +3,7 @@ title: "Garbage In, Garbage Out: Why Data Hygiene is the Secret to RAG Precision
 date: 2026-01-08
 ---
 
-![RAG Hygiene](/benjamin-data/docs/assets/images/rag_hygiene.svg)
+![RAG Hygiene](/benjamin-data/docs/assets/images/rag_hygiene.png)
 
 In the race to deploy AI, specifically Retrieval-Augmented Generation (RAG) systems, we often see organisations engage in "prompt stuffing"—cramming every PDF, Slack thread, and legacy document into a vector database and hoping that the context window will resolve the ambiguity.
 
