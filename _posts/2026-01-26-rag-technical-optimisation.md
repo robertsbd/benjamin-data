@@ -3,7 +3,7 @@ title: "Four technical tactics to reduce RAG costs"
 date: 2026-01-08
 ---
 
-![RAG Hygiene](/benjamin-data/docs/assets/images/rag_technical_optimisation.png)
+![RAG Optimisation](/benjamin-data/docs/assets/images/rag_technical_optimisation.png)
 
 In my last post, I discussed how "Clean Data" is the foundation of a high-performance RAG system. But even with perfect data, a standard retrieval process can still be a token-hog.
 
